@@ -16,7 +16,7 @@ if(randomNumber1>randomNumber2){
 
 
 else if(randomNumber2>randomNumber1){
-    document.querySelector("h1").innerHTML="Lakshmi Wins";
+    document.querySelector("h1").innerHTML="Varshinee Wins";
 }
 
 else{
